@@ -57,4 +57,6 @@ Question('Some cats are actually allergic to humans', true),
 
 ## Notes
 
-- todo
+- Main screen consist of 3 Expandable widget, where the question (expandable) widget has the flex of 5 and rest of them are evenly spaced (1:1)
+- To make todo notes, type ` \\TODO:` and it will automatically format the comment. We can find them under todo tab (View -> Window -> Todo)
+- 
